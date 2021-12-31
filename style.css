@@ -2,10 +2,15 @@
     text-align: center;
 }
 
+body {
+    background-color: rgba(235, 181, 202, 0.753);
+}
+
 .nav-list {
     font-size: 26px;
 }
 
 .home-title {
     font-size: 46px;
+    
 }
